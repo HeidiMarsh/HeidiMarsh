@@ -1,16 +1,14 @@
 ### Hi there 👋
+I'm Heidi Marshall :slightly_smiling_face:
 
-<!--
-**HeidiMarsh/HeidiMarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me**
 
-Here are some ideas to get you started:
+- :computer: Currently learning web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :world_map: I love travelling!
+
+- :camera: My favorite thing to do is take photos of the places I visit.
+
+- :koala: My favorite animal is a koala.
+
+- :climbing_woman: I love to go rock climbing!
